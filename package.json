@@ -1,0 +1,38 @@
+{
+    "name": "etalytics-angular-essentials",
+    "displayName": "etalytics Angular Essentials",
+    "description": "An etalytics extension pack with essential extensions for Visual Studio Code for developing Angular applications.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "Angular.ng-template", 
+        "msjsdiag.debugger-for-chrome", 
+        "esbenp.prettier-vscode",
+        "PKief.material-icon-theme",
+        "nrwl.nx-console",
+        "ms-vscode.vscode-typescript-tslint-plugin", 
+        "christian-kohler.path-intellisense",
+        "streetsidesoftware.code-spell-checker",
+        "chrmarti.regex",
+        "natewallace.angular2-inline",
+        "stringham.move-ts",
+        "steoates.autoimport", 
+        "donjayamanne.githistory", 
+        "eamodio.gitlens", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "wayou.vscode-todo-highlight",
+        "Gruntfuggly.todo-tree", 
+        "infinity1207.angular2-switcher",
+        "Mikael.Angular-BeastCode",
+        "cyrilletuzi.angular-schematics",
+        "jerryhong.autofilename",
+        "aaron-bond.better-comments",
+        "coenraads.bracket-pair-colorizer",
+        "editorconfig.editorconfig"
+    ]
+}
