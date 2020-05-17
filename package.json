@@ -3,9 +3,25 @@
     "displayName": "etalytics Angular Essentials",
     "description": "An etalytics extension pack with essential extensions for Visual Studio Code for developing Angular applications.",
     "version": "0.0.1",
+    "icon": "images/etalytics-logo.png",
+    "galleryBanner": {
+      "color": "#0273D4",
+      "theme": "dark"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/etalytics/etalytics-angular-essentials"
+      },
     "engines": {
         "vscode": "^1.45.0"
     },
+    "keywords": [
+        "Angular",
+        "Angular 9",
+        "TypeScript",
+        "HTML",
+        "etalytics"
+      ],
     "categories": [
         "Extension Packs"
     ],
