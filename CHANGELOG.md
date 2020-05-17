@@ -4,6 +4,6 @@ All notable changes to the "etalytics-angular-essentials" extension pack will be
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## 1.0
 
 - Initial release
