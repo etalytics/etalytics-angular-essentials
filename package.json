@@ -3,7 +3,7 @@
     "displayName": "etalytics Angular Essentials",
     "description": "An etalytics extension pack with essential extensions for Visual Studio Code for developing Angular applications.",
     "publisher": "etalytics",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "icon": "images/etalytics-logo.png",
     "galleryBanner": {
       "color": "#0273D4",
@@ -27,6 +27,7 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
+        "ghaschel.vscode-angular-html",
         "Angular.ng-template", 
         "msjsdiag.debugger-for-chrome", 
         "esbenp.prettier-vscode",
