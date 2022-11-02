@@ -1,56 +1,58 @@
 {
-    "name": "etalytics-angular-essentials",
-    "displayName": "etalytics Angular Essentials",
-    "description": "An etalytics extension pack with essential extensions for Visual Studio Code for developing Angular applications.",
-    "publisher": "etalytics",
-    "version": "1.0.2",
-    "icon": "images/etalytics-logo.png",
-    "galleryBanner": {
-      "color": "#0273D4",
-      "theme": "dark"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/etalytics/etalytics-angular-essentials"
-      },
-    "engines": {
-        "vscode": "^1.45.0"
-    },
-    "keywords": [
-        "Angular",
-        "Angular 9",
-        "TypeScript",
-        "HTML",
-        "etalytics"
-      ],
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionPack": [ 
-        "ghaschel.vscode-angular-html",
-        "Angular.ng-template", 
-        "msjsdiag.debugger-for-chrome", 
-        "esbenp.prettier-vscode",
-        "PKief.material-icon-theme",
-        "nrwl.nx-console",
-        "ms-vscode.vscode-typescript-tslint-plugin", 
-        "christian-kohler.path-intellisense",
-        "streetsidesoftware.code-spell-checker",
-        "chrmarti.regex",
-        "natewallace.angular2-inline",
-        "stringham.move-ts",
-        "steoates.autoimport", 
-        "donjayamanne.githistory", 
-        "eamodio.gitlens", 
-        "VisualStudioExptTeam.vscodeintellicode", 
-        "wayou.vscode-todo-highlight",
-        "Gruntfuggly.todo-tree", 
-        "infinity1207.angular2-switcher",
-        "Mikael.Angular-BeastCode",
-        "cyrilletuzi.angular-schematics",
-        "jerryhong.autofilename",
-        "aaron-bond.better-comments",
-        "coenraads.bracket-pair-colorizer",
-        "editorconfig.editorconfig"
-    ]
+  "name": "etalytics-angular-essentials",
+  "displayName": "etalytics Angular Essentials",
+  "description": "An etalytics extension pack with essential extensions for Visual Studio Code for developing Angular applications.",
+  "publisher": "etalytics",
+  "version": "2.0.0",
+  "icon": "images/etalytics-logo.png",
+  "galleryBanner": {
+    "color": "#0273D4",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/etalytics/etalytics-angular-essentials"
+  },
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "keywords": [
+    "Angular",
+    "Angular 14",
+    "TypeScript",
+    "HTML",
+    "etalytics"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "Mikael.Angular-BeastCode",
+    "Angular.ng-template",
+    "cyrilletuzi.angular-schematics",
+    "johnpapa.Angular2",
+    "natewallace.angular2-inline",
+    "infinity1207.angular2-switcher",
+    "AngularDoc.angulardoc-vscode",
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
+    "vsls-contrib.codetour",
+    "EditorConfig.EditorConfig",
+    "dbaeumer.vscode-eslint",
+    "GitLab.gitlab-workflow",
+    "eamodio.gitlens",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "VisualStudioExptTeam.intellicode-api-usage-examples",
+    "whtouche.vscode-js-console-utils",
+    "ms-vsliveshare.vsliveshare",
+    "ms-vsliveshare.vsliveshare-pack",
+    "PKief.material-icon-theme",
+    "CodeStream.codestream",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "Redocly.openapi-vs-code",
+    "chrmarti.regex",
+    "Gruntfuggly.todo-tree",
+    "ghaschel.vscode-angular-html"
+  ]
 }
